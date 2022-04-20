@@ -1,0 +1,23 @@
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item-container li {
+  list-style: none;
+  margin-right: 3rem;
+  font-size: 1.4rem;
+}
+
+.todo-btn {
+  margin: 0 0.5rem;
+  border: none;
+  background-color: lightgreen;
+  border-radius: 1rem;
+  padding: 0.5rem 1.5rem;
+}
+
+.update-input {
+  font-size: 1.4rem;
+}

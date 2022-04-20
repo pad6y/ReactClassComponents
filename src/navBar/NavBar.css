@@ -1,0 +1,23 @@
+.nav-container {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem 2rem;
+  background-color: green;
+  text-decoration: none;
+  align-items: center;
+}
+
+.nav-item {
+  box-sizing: border-box;
+  text-decoration: none;
+  font-size: 1.6rem;
+  color: #fff;
+  width: 8%;
+  padding: 0.5rem;
+  border: 2px solid green;
+}
+
+.nav-item-active {
+  border: 2px solid #fff;
+  border-radius: 0.5rem;
+}

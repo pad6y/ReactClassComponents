@@ -1,0 +1,31 @@
+.container {
+  width: 40%;
+  margin: 4rem auto;
+  padding: 1rem;
+  border: 2px solid grey;
+  border-radius: 4px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.num-container {
+  display: flex;
+  justify-content: center;
+}
+
+.btn-lotto {
+  margin: 2rem auto;
+  padding: 1rem 4rem;
+  background-color: blue;
+  border: none;
+  border-radius: 25px;
+  color: white;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,24 @@
+.RollDice {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.RollDice-container {
+  text-align: center;
+}
+
+.btn-dice {
+  background-color: #25ab04;
+  padding: 1.5rem 4rem;
+  border: none;
+  border-radius: 0.5rem;
+  color: #fff;
+  width: 15%;
+  margin: 1.5rem auto;
+  font-size: 1.3rem;
+}
+
+.btn-dice:hover {
+  background-color: #2ac304;
+}
